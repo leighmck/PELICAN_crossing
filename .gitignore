@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Setuptools distribution & packaging
+# Distribution / packaging
+dist/
+*.egg-info/
+.installed.cfg
+*.eggs
+
+# PyCharm stuff
+.idea
+
+# Editor
+*.swp
+
+# Build artifacts
+/build/
+/build-artifacts/
+/.cache
+/.coverage*
+/.requirements
+/doc/build/
+/tmp
+/.mypy_cache/
+/htmlcov
+
+# Virtual environ(s)
+/.v*env*/
+.tox
